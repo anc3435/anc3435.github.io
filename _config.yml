@@ -101,7 +101,7 @@ analytics:
 # Site Author
 author:
   name             : "Abhinandan Chowdhury"
-  avatar           : "images/mattkirby.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : #"images/mattkirby.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Professor of Mathematics & Data Analytics"
   location         : "Savannah, GA"
   employer         : "Savannah State University"
