@@ -1,5 +1,5 @@
 ---
-title: "Preprocessing Among the Infalling Galaxy Population of EDisCS Clusters"
+title: "Approximate Solutions to the {G}ardner Equation by Spectral modified Exponential Time Differencing Method"
 collection: publications
 permalink: /publications/just-et-al-2019
 excerpt: "We performed a low-resolution spectroscopic survey for 21 galaxy clusters to measure redshifts to galaxies in each of the cluster fields. Using these redshifts, we identified cluster members and studied their color as a function of their lcoal environment."
