@@ -102,7 +102,7 @@ analytics:
 author:
   name             : "Abhinandan Chowdhury"
   avatar           : #"images/mattkirby.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Associate Professor at Savannah State University"
+  bio              : "Professor of Mathematics & Data Analytics"
   location         : "Savannah, GA"
   employer         : "Savannah State University"
   email            : "chowdhury@savannahstate.edu"
@@ -121,7 +121,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         : # "john-doe-12345678" (the last part of your profile url, e.g. https://www.linkedin.com/in/john-doe-12345678)
-  googlescholar    : #"https://scholar.google.com/citations?user=UtjjWXgAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=Q9g9NMkAAAAJ&hl=en"
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
