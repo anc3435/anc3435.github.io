@@ -1,7 +1,7 @@
 ---
 title: "Predicting Serious Postoperative Complications and Evaluating Racial Fairness in Machine Learning Algorithms for Metabolic and Bariatric Surgery"
 collection: publications
-permalink: /publications/chisari-et-al-2019
+permalink: /publications/chan_chowdhury_SOaRD_2024
 excerpt: "The Core Cosmology Library (CCL) is a C library (with a python interface) to compute cosmological observables including distances, angular power spectra, correlation functions, halo bias and the halo mass function. Routines in CCL have been vetted with an extensive suite of validation tests to ensure numerical accuracy."
 date: 2024
 Journal: Surgery for Obesity and Related Diseases
