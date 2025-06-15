@@ -22,11 +22,11 @@ I am also a member in the Large Synoptic Survey Telescope (LSST) [Dark Energy Sc
 
 On the side, I am working with [Dennis Zaritsky](http://djuma.as.arizona.edu/~dennis/) on measuring the dependence of environment on the morphology of galaxies falling into galaxy clusters. Using spectra taken with a low-dispersion prism, we have calculated redshifts with low uncertainties (order of magnitude better than photometric redshifts, order of magnitude worse than spectroscopic redshifts) for about 30,000 galaxies in clusters from the ESO Distance Cluster Survey (EDisCS). Using these redshifts, we can easily identify cluster member galaxies and then explore the features of the local cluster environment.
 
-## Personal
+<!-- ## Personal
 <img src="../images/astro_tcg.jpg" width="200px" align="left" hspace="30"> 
 
 In my spare time, I run an online storefront selling Magic: The Gathering trading cards called [Astro TCG](https://shop.tcgplayer.com/sellerfeedback/346ad38b). It has taken over all of the free space in my apartment! 
 
 After purchasing collections of cards, usually thousands at a time, they need to be sorted and graded before I can enter anything into inventory. <br clear="left">
 
-Beyond work and the store, I love both playing and running Dungeons & Dragons games. I run one weekly fifth edition game using an online virtual table top with my friends from college and play in one weekly game with other graduate students in my year.
+Beyond work and the store, I love both playing and running Dungeons & Dragons games. I run one weekly fifth edition game using an online virtual table top with my friends from college and play in one weekly game with other graduate students in my year. -->
