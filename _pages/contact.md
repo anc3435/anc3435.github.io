@@ -8,4 +8,10 @@ classes: wide
 
 If you would like to get into contact, just shoot me an email! 
 
-<img src="../images/contact.png"><br clear="left">
+<!-- <img src="../images/contact.png"><br clear="left"> -->
+
+abhinandan.chowdhury@gmail.com 
+
+### OR ### 
+
+chowdhury@savannahstate.edu
