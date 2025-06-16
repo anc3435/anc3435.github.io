@@ -51,9 +51,9 @@ classes: wide
 
        <!--Date Line-->
       {% if page.date %}
-          <div class="talk_date"><i class="far fa-clock" aria-hidden="true"></i> {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</div>
-          <div class="talk_venue"><i class="far fa-map"></i> {{ page.venue }}</div>
+           <div class="talk_venue"><i class="far fa-map"></i> {{ page.venue }}</div>
            <div class="talk_venue"><i class="far fa-user"></i> {{ page.user }}</div>
+           <div class="talk_date"><i class="far fa-clock" aria-hidden="true"></i> {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</div>
       {% endif %}
 
       <!--Page content
