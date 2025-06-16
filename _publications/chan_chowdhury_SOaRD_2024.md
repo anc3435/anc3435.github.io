@@ -4,9 +4,10 @@ collection: publications
 permalink: /publications/chan_chowdhury_SOaRD_2024
 excerpt: ""
 date: 1/11/2024
-venue: "<em> Surgery for Obesity and Related Diseases</em>, <b>20</b>(11), pp. 1056-1064"
+venue: "<em> Surgery for Obesity and Related Diseases</em>"
+info: "<b>20</b>(11), pp. 1056-1064"
 user: "D-W Kang, S. Zhou, R. Torres, <b> A. Chowdhury </b>, S. Niranjan, A. Rogers and C. Shen"
-doi: <a href = "https://www.soard.org/article/S1550-7289(24)00726-3/abstract" target="_blank" class = "uline"> DoI </a>
+doi: <a href = "https://www.soard.org/article/S1550-7289(24)00726-3/abstract" target="_blank" class = "uline"> Article Info </a>
 classes: wide
 publ: "True"
 ---
