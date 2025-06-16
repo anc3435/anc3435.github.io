@@ -5,6 +5,7 @@ permalink: /publications/chan_chowdhury_SOaRD_2024
 excerpt: ""
 date: 1/1/2024
 venue: "Surgery for Obesity and Related Diseases"
+user: "Abhi Chowdhury"
 classes: wide
 publ: "True"
 ---
