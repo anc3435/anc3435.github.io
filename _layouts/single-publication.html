@@ -36,7 +36,7 @@ classes: wide
         </header>
       {% endunless %}
 
-      <!--Date Line-->
+      <!--Date Line
       {% if page.date %}
         {% if page.publ == "false" %}
             <p class="page__date">
@@ -47,7 +47,7 @@ classes: wide
               <strong><i class="fas fa-fw fa-calendar-alt" aria-hidden="true"></i>Published:</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%Y" }}</time>
             </p>
         {% endif %}
-      {% endif %}
+      {% endif %}-->
 
       <!--Page content
       <section class="page__content" itemprop="text">
