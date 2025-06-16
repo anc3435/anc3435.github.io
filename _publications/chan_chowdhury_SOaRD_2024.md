@@ -2,11 +2,11 @@
 title: "Predicting Serious Postoperative Complications and Evaluating Racial Fairness in Machine Learning Algorithms for Metabolic and Bariatric Surgery"
 collection: publications
 permalink: /publications/chan_chowdhury_SOaRD_2024
-excerpt: ""
+excerpt: "Abhi Chowdhury"
 date: 1/1/2024
 venue: "Surgery for Obesity and Related Diseases"
 classes: wide
-publ: "Abhi Chowdhury"
+publ: "True"
 ---
 
 ## Abstract
