@@ -278,7 +278,7 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publ:
     output: true
     permalink: /:collection/:path/
   talks:
@@ -308,7 +308,7 @@ defaults:
   # _publications
   - scope:
       path: ""
-      type: publications
+      type: publ
     values:
       layout: single-publication
       author_profile: true
