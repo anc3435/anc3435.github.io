@@ -29,7 +29,7 @@ classes: wide
       <!-- Header-->
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h2 style="font-size: 20px;" id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h2>{% endif %}
+          {% if page.title %}<h2 style="font-size: 25px;" id="page-title" class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h2>{% endif %}
           {% if page.read_time %}
             <p class="page__meta"><i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
@@ -59,7 +59,7 @@ classes: wide
 
       <!-- "%B %d, -->
       <!--Page content -->
-      <section class="page__content" itemprop="text">
+      <section class="page__content" style="font-size: 15px;" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn btn--primary">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>
