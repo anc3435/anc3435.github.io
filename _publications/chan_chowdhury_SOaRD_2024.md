@@ -5,7 +5,7 @@ permalink: /publications/chan_chowdhury_SOaRD_2024
 excerpt: ""
 date: 1/1/2024
 venue: "Surgery for Obesity and Related Diseases"
-user: "D-W Kang, S. Zhou, R. Torres, A. Chowdhury, S. Niranjan, A. Rogers and C. Shen"
+user: "D-W Kang, S. Zhou, R. Torres, **A. Chowdhury**, S. Niranjan, A. Rogers and C. Shen"
 classes: wide
 publ: "True"
 ---
