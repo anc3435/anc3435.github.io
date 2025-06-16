@@ -6,7 +6,7 @@ excerpt: ""
 date: 1/11/2024
 venue: "<em> Surgery for Obesity and Related Diseases</em>, <b>20</b>(11), pp. 1056-1064"
 user: "D-W Kang, S. Zhou, R. Torres, <b> A. Chowdhury </b>, S. Niranjan, A. Rogers and C. Shen"
-doi: <a href= "10.1016/j.soard.2024.08.008" class="uline"> Something </a>
+doi: <a href= 10.1016/j.soard.2024.08.008 class="uline"> Something </a>
 classes: wide
 publ: "True"
 ---
