@@ -49,6 +49,12 @@ classes: wide
         {% endif %}
       {% endif %}-->
 
+       <!--Date Line-->
+      {% if page.date %}
+          <div class="talk_date"><i class="far fa-clock" aria-hidden="true"></i> {{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</div>
+          <div class="talk_venue"><i class="far fa-map"></i> {{ page.venue }}, {{ page.location }}</div>
+      {% endif %}
+
       <!--Page content
       <section class="page__content" itemprop="text">
         {{ content }}
